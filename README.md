@@ -2,7 +2,7 @@
 
 ## Movie recommendation systems with TMDB 5000 Movie Dataset
 
-1. prepricessing
+1. Preprocessing
 2. Content based filtering
 
 
